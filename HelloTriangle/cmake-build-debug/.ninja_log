@@ -1,0 +1,10 @@
+# ninja log v5
+1	31	1717214085151951917	build.ninja	6b0e72a9837d038f
+432	608	1717071159692916215	HelloTriangle	1fb3fb299024896f
+2	844	1715865973538519925	CMakeFiles/HelloTriangle.dir/stb_image.cpp.o	2a1dc46bef4796fe
+2	731	1716997167779219852	CMakeFiles/HelloTriangle.dir/main.cpp.o	b0ac3c5534a652e3
+4	431	1717071159520927591	CMakeFiles/HelloTriangle.dir/src/glad.c.o	ffa83323d45e2c7b
+5	429	1717214089139996995	CMakeFiles/HelloTriangle.dir/src/glad.c.o	e3100a6e8d291c1a
+4	1375	1717214090092007748	CMakeFiles/HelloTriangle.dir/main.cpp.o	1e34e9b7ec3ff81f
+7	1383	1717214090100007839	CMakeFiles/HelloTriangle.dir/stb_image.cpp.o	ac9ee88b10a22921
+1384	1527	1717214090240009420	HelloTriangle	1fb3fb299024896f

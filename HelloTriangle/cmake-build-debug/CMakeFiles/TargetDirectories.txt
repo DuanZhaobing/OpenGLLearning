@@ -1,0 +1,3 @@
+/home/duanzhaobing/local/git/OpenGL/OpenGLLearning/HelloTriangle/cmake-build-debug/CMakeFiles/HelloTriangle.dir
+/home/duanzhaobing/local/git/OpenGL/OpenGLLearning/HelloTriangle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/duanzhaobing/local/git/OpenGL/OpenGLLearning/HelloTriangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
